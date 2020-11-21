@@ -15,3 +15,5 @@ song 1
 song 2
 song 3
 ``` 
+
+credit to SirK (https://github.com/S1rK) he did a lot of work on this project
